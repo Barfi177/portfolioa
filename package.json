@@ -1,0 +1,15 @@
+{
+  "name": "dog-food-marketplace",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "next": "^12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "vite": "^2.9.13"
+  }
+}
